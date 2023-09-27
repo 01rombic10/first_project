@@ -25,4 +25,6 @@ git init
 ```
 [Яндекс](https://www.yandex.ru "Я Yandex!") 
 
+[Ссылка на шпаргалку по markdown](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c)
+
 Это лишь некоторые функции markdown. 
