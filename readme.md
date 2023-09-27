@@ -23,4 +23,6 @@ mkdir my_project
 cd my_project
 git init
 ```
+[Яндекс](https://www.yandex.ru "Я Yandex!") 
+
 Это лишь некоторые функции markdown. 
